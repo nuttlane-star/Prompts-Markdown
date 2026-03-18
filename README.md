@@ -24,5 +24,5 @@ Most of my prompts are about payments technology, where I often need to develop 
 - Refine prompts over time based on results.
 - Reuse and adapt good prompts across different tools and use cases.
 
-
-/prompts/readme.md
+## Nested Readme files
+[Prompts](prompts/README.md)

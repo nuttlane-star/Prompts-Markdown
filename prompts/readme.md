@@ -28,3 +28,6 @@ Capture meta-notes (what worked, failures, tweaks) in notes/experiments.md or pe
 
 ## How to use
 Start with `building-blocks/` to assemble context and constraints, then pick a full prompt from `payments/` or `non-work/` and adapt it for the current task.
+
+## Back Home
+[⬅ Back to main README](../README.md)
